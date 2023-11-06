@@ -46,7 +46,7 @@ CREATE TABLE `amigos` (
 --
 
 INSERT INTO `amigos` (`identificion`, `primer_nombre`, `segundo_nombre`, `primer_apellido`, `segundo_apellido`, `correo`, `nacimiento`, `edad`, `pais`, `canton`, `distrito`) VALUES
-(1, 'Carlos', 'Isaac ', 'Vilche', 'Diaz', 'cdiaz8962@gmail.com', '1999-06-05', 24, 'El Salvador', 'Colonia Marquez', 'Intipuca');
+(1, 'Anderson', 'Vladimir', 'Amaya', 'Diaz', 'andersonamaya61@gmail.com', '1999-09-16', 24, 'El Salvador', 'Colonia ciudad Jardin', 'San Miguel');
 
 -- --------------------------------------------------------
 
